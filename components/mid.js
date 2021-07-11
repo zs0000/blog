@@ -11,7 +11,7 @@ export default function Mid() {
           </div>
           <div className="md:grid md:grid-cols-4 flex flex-col">
             
-            <div className="md:col-span-2 mx-2 transition-transform  hover:delay-150 hover:scale-125 hover:duration-500">
+            <div className="md:col-span-2 mx-2 transition-transform  hover:delay-150 hover:-translate-y-2 hover:duration-500">
           <Image src={Spotlight} height={505} width={672} layout="intrinsic" />
           </div>
           <div className="md:col-span-2 lg:my-10">

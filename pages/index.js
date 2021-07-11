@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 import Mid from '../components/mid'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
-import { CMS_NAME } from '../lib/constants'
+
 
 
 export default function Index({ allPosts }) {
@@ -16,7 +16,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>Crested Gecko Info: Morphs, Care, Breeding, Diet - ReptiKeep</title>
         </Head>
         <Container>
           

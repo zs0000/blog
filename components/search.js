@@ -13,7 +13,7 @@ export default function Search() {
 
   const onChange = useCallback((event) => {
     const query = event.target.value;
-    setQuery(query)
+    setQuery(query.toLowerCase())
     if (query.length) {
       fetch(searchEndpoint(query))
         .then(res => res.json())
