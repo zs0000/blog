@@ -10,8 +10,10 @@ import PostTitle from '../../components/post-title'
 import Head from 'next/head'
 import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
+import OtherStories from '../../components/other-articles'
 
 export default function Post({ post, morePosts, preview }) {
+
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
@@ -19,15 +21,15 @@ export default function Post({ post, morePosts, preview }) {
   return (
     <Layout preview={preview}>
       <Container>
-        <Header />
+ 
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-32">
+            <article className="pb-16">
               <Head>
                 <title>
-                  {post.title} | Next.js Blog Example with {CMS_NAME}
+                  {post.title} | ReptiKeep
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>
@@ -41,6 +43,7 @@ export default function Post({ post, morePosts, preview }) {
             </article>
           </>
         )}
+        <OtherStories/>
       </Container>
     </Layout>
   )

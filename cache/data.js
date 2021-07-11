@@ -1,0 +1,10 @@
+export const posts = [{"id":"how-long-do-crested-geckos-live", "title":"How Long Does A Crested Gecko Live"},
+{"id":"what-do-crested-geckos-eat", "title":"What Do Crested Geckos Eat?"},
+{"id":"what-is-a-crested-gecko-morph", "title":"What Is A Crested Gecko Morph?"},
+{"id":"what-is-a-lilly-white-crested-gecko", "title":"What Is A Lilly White Crested Gecko?"},
+{"id":"what-is-an-axanthic-crested-gecko", "title":"What Is An Axanthic Crested Gecko?"},
+{"id":"breeding-crested-geckos-beginner-guide", "title":"Breeding Crested Geckos: Beginner's Guide"},
+{"id":"setting-up-your-first-crested-gecko-enclosure", "title":"Setting Up Your First Crested Gecko Enclosure"},
+{"id":"do-crested-geckos-lay-eggs", "title":"Do Crested Geckos Lay Eggs?"},
+{"id":"what-to-do-when-crested-geckos-lay-eggs", "title":"What To Do When Crested Geckos Lay Eggs?"},
+{"id":"what-size-tank-do-i-need-for-a-crested-gecko", "title":"What Size Tank Does My Crested Gecko Need?"}]

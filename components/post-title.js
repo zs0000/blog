@@ -1,7 +1,11 @@
 export default function PostTitle({ children }) {
   return (
-    <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">
+  <div className="w-full flex justify-center items-center border-b">
+    <div className="lg:w-2/3 md:w-11/12 ">
+    <h1 className="text-6xl  font-serif  bg-gray-50 shadow rounded-lg antialiased py-2 mx-2 tracking-tighter leading-tight text-center">
       {children}
     </h1>
+  </div>
+  </div>
   )
 }

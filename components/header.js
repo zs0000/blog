@@ -1,12 +1,18 @@
-import Link from 'next/link'
-
+import Dropdown from "./dropdown";
+import Search from "./search";
 export default function Header() {
   return (
-    <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8">
-      <Link href="/">
-        <a className="hover:underline">Blog</a>
-      </Link>
-      .
-    </h2>
+    <>
+    <div className="w-screen border-b flex flex-row py-2 shadow border-gray-600 border-opacity-20 bg-green-600">
+        <a className="font-serif text-yellow-100 text-4xl">ReptiKeep</a>
+
+        <div className="z-40 w-1/3">
+      <Dropdown />
+      </div>
+      <div className="z-40 w-1/3">
+      <Search />
+      </div>
+    </div>
+    </>
   )
 }
