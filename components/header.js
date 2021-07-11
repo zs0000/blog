@@ -9,8 +9,8 @@ export default function Header() {
         <div className="z-40 w-1/3">
       <Dropdown />
       </div>
-      <div className="z-40 w-1/3">
-      <Search />
+      <div className="md:block hidden z-40 w-1/3">
+      <Search  />
       </div>
     </div>
     </>
