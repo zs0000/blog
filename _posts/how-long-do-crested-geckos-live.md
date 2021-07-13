@@ -40,10 +40,6 @@ When I first found out how long Crested Geckos lived in as pets in captivity, I 
 
 <h2 style="font-family:ui-serif;font-size:40px;letter-spacing: -1px;line-height:95%;">How Long Do Crested Geckos Live in the Wild? Lifespan in The Wild</h2>
 
-Upon doing research it wasn't easy to find consistent information. There has been multiple credible studies done regarding the stomach and fecal 
-contents of a Crested Gecko, which helped lead to the discovery that Crested Geckos weren't Frugivores strictly. It was found that they also ate many insects, and found room for things like bee or plant pollen... <a href="/blog/what-do-geckos-eat" className="font-bold underline">(More about What Crested Geckos Eat In the Wild vs As Pets)</a> 
-<br/>
-<br/>
 Unfortunately because of so much conflicting information we will not say any of the following is fact: 
 however its suggested that they may live around 4-5 years, with most Crested Geckos dying in their first 
 year of living. This is speculated for many reasons - some of the main would be the Larger Rhacodactylus that they share the forest with, declining population numbers that at one point had humans thinking the Crested Gecko was exctinct, disease, and inconisistent food sources.
@@ -65,9 +61,6 @@ We'll cover why Crested Geckos are able to live so much longer as pets, compared
 
 <h2 style="font-family:ui-serif;font-size:40px;letter-spacing: -1px;line-height:95%;">Things to Factor in Crested Gecko Lifespan</h2>
 
-There isn't a deadset formula on how to make your Crested Gecko live longer - however, there are known factors that contribute to a potentially shorter lifespan for your sticky toed, eyelash gecko. 
-<br/>
-<br/>
 Constant or consistent stress on your animal could contribute to a shorter lifespan for your Crested Gecko. This stress could be caused many different ways, a few common ways are constant or stressful handeling, improper nutrients and or improper diet, and Cohabbing. Other stress factors could include temperature, humidity, visual barriers, proper lighting schedule, etc.
 <span id="a-crested-geckos-lifespan-compared-to-other-reptiles"></span>
 

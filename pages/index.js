@@ -17,6 +17,10 @@ export default function Index({ allPosts }) {
       <Layout>
         <Head>
           <title>Crested Gecko Info: Morphs, Care, Breeding, Diet - ReptiKeep</title>
+          <meta
+        name="description"
+        content={`Crested Gecko Care guides, Crested Gecko Morph Examples and Explanations, Crested Gecko Diet and nutrition as pets compared to the wild, and Housing information.`}
+      />
         </Head>
         <Container>
           

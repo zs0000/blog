@@ -26,7 +26,7 @@ export default function OtherStories() {
         <Link href="/posts/what-is-a-lilly-white-crested-gecko">
         <Image src={Second} height={200} width={275} layout="intrinsic" />
         </Link>
-        <Link href="/posts/breeding-crested-geckos-beginner-guide">
+        <Link href="/posts/what-is-a-lilly-white-crested-gecko">
         <h2 className="m-1 md:mx-2 md:text-lg md:w-4/6">What Is A Lilly White Crested Gecko?</h2>
         </Link>    
         </div>

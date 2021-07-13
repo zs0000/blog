@@ -12,7 +12,7 @@ export default function Footer() {
                   <div className="w-full pr-4 md:w-2/4">
                     <h2 className="mx-auto mb-6 text-xl font-semibold leading-snug tracking-tighter text-black title-font">  </h2>
                     <span className="inline-flex justify-start sm:mb-12">
-                      <a className="text-blue-500 hover:text-black" target="_blank" href="https://www.facebook.com/collectgeckos">
+                      <a className="text-blue-500 hover:text-black" target="_blank" href="https://www.facebook.com/EverythingCrestedGecko">
                         <svg fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-5 h-5" viewBox="0 0 24 24">
                           <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
                         </svg>
@@ -54,7 +54,7 @@ export default function Footer() {
                   </div>
                   <div className="w-full px-8 md:w-1/4">
 
-                    <nav className="mb-10 space-y-4 list-none">
+                    <nav className="mb-10 space-y-5 list-none">
                       <li>
                       <Link href="/privacy-policy">
                         <a className=" mr-1 text-sm text-blueGray-500 transition duration-500 ease-in-out transform rounded-sm focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">Privacy Policy</a>
@@ -68,6 +68,11 @@ export default function Footer() {
                       <li>
                       <Link href="/cookie-policy">
                         <a className=" mr-1 text-sm text-blueGray-500 transition duration-500 ease-in-out transform rounded-sm focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">Cookie Policy</a>
+                        </Link>
+                        </li>
+                        <li>
+                      <Link href="/sitemap.xml">
+                        <a className=" mr-1 text-sm text-blueGray-500 transition duration-500 ease-in-out transform rounded-sm focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">Sitemap</a>
                         </Link>
                       </li>
                     </nav>
