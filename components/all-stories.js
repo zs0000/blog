@@ -7,9 +7,11 @@ export default function AllStories({ posts }) {
       <h2 className="mb-8 text-6xl text-center border-b md:text-6xl font-bold font-serif tracking-tighter leading-tight">
         Article Collection
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-32">
+      <ul className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-32">
         {posts.map((post) => (
-          <div key={post.slug} className="shadow-xl px-2 pb-2 hover:transition-transform hover:-translate-y-2 duration-150 rounded-lg">
+          <li key={post.slug} className="shadow-xl px-2 pb-2 hover:transition-transform hover:-translate-y-2 duration-150 rounded-lg">
+            <Link as={`/posts/${post.slug}`} href="/posts/[slug]">
+          <a>
           <PostPreview
             key={post.slug}
             title={post.title}
@@ -19,9 +21,11 @@ export default function AllStories({ posts }) {
             slug={post.slug}
             excerpt={post.excerpt}
           />
-          </div>
+          </a>
+          </Link>
+          </li>
         ))}
-      </div>
+      </ul>
     </section>
   )
 }
