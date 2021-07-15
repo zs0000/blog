@@ -5,7 +5,11 @@ export default function TermsAndConditions() {
     return(
         <Layout>
             <Head>
-
+            <title>Terms and Conditions - ReptiKeep</title>
+          <meta
+        name="description"
+        content={`Terms and Conditions page for ReptiKeep`}
+      />
             </Head>
             <Container>
                 <main>

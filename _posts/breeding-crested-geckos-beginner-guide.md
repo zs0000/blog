@@ -1,6 +1,7 @@
 ---
 title: 'Breeding Crested Geckos: A Beginners Guide'
-excerpt: 'It can be quite daunting to pair your first two Adult Crested Geckos, especially as a beginner - So we wrote this article to detail everything from enclosure size, to incubation medium, to hatch time, and more! Find out all you need to know about breeding Crested Geckos for the first time!'
+excerpt: 'Pairing your first two Crested Geckos can be daunting, especially as a beginner. Details on everything from enclosure size, to incubation medium, to hatch time, and more! Find out all you need to know about breeding Crested Geckos for the first time!'
+description: 'Details on how to Breed Crested Geckos. Find out what calcium sacks are, if a Crested Gecko is ready to pair, and more'
 coverImage: '/assets/blog/breeding-crested-geckos-beginners-guide/18.jpg'
 date: '2021-07-05T06:22:02.322Z'
 author:

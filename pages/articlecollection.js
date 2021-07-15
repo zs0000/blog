@@ -9,7 +9,11 @@ export default function ArticleCollection({ allPosts }){
     return(
         <Layout>
         <Head>
-          <title>Crested Gecko Morphs, Diet, and Care</title>
+          <title>Crested Gecko Article Collection - ReptiKeep</title>
+          <meta
+        name="description"
+        content={`A collection of Crested Gecko fact based posts, on everything from feeding to breeding Crested Geckos.`}
+      />
         </Head>
         <Container>
         {morePosts.length > 0 && <AllStories posts={morePosts} />}

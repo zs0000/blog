@@ -1,6 +1,7 @@
 ---
 title: 'Setting Up Your First Crested Gecko Enclosure'
 excerpt: 'The way you set up your Crested Geckos housing can have an affect on their growth rate, stress levels, and quality of life. In this quick read, we will discuss enclosure size, proper air flow, fake plants, food bowls, substrate, and whether your pet reptile needs a lay box or not!'
+description: 'First time pet Crested Gecko housing guide for all life stages, as well as when to move to a larger enclosure.'
 coverImage: '/assets/blog/setting-up-your-first-crested-gecko-enclosure/19.jpg'
 date: '2021-07-05T06:22:02.322Z'
 author:

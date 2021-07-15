@@ -1,6 +1,7 @@
 ---
 title: 'What Is An Axanthic Crested Gecko?'
 excerpt: 'Discussing the nature of the axanthic mutation, is it recessive? and Why Axanthic Crested Geckos can cost over $20,000 in some cases. Find out more about this mutation that causes a lack of red and yellow pigment.'
+description: 'The Axanthic Crested Gecko mutation is one of the rarest, and hardest to reproduce Morphs in the hobby.'
 coverImage: '/assets/blog/what-is-a-axanthic-crested-gecko/14.jpg'
 date: '2021-06-30T05:35:07.322Z'
 author:

@@ -1,6 +1,7 @@
 ---
 title: 'How Long Does A Crested Gecko Live?'
 excerpt: 'It is speculated that in the wild a Crested Geckos lifespan is much shorter than in captivity. Lets discuss why Crested Geckos can live 20+ years as pets!'
+description: 'Crested Geckos live a shockingly long time! Lets find out how long, and compare lifespan to other reptiles!'
 coverImage: '/assets/blog/how-long-do-crested-geckos-live/2.jpg'
 date: '2021-06-27T05:35:07.322Z'
 author:

@@ -1,6 +1,7 @@
 ---
 title: 'What Do Crested Geckos Eat?'
 excerpt: 'What keepers feed Crested Geckos as pets is very similar to what a Crested Gecko eats in the wild. The optimal diet for a Crested Gecko will be discussed in detail, as well as how it evolved.'
+description: 'As pets, Crested Geckos are fed a fruity slurry, made from meal replacement powders and water, and insects. '
 coverImage: '/assets/blog/what-do-crested-geckos-eat/13.jpg'
 date: '2021-06-24T05:35:07.322Z'
 author:

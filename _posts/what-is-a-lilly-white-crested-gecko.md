@@ -1,6 +1,7 @@
 ---
 title: 'What Is A Lilly White Crested Gecko?'
 excerpt: 'Detailed Breakdown of Where Lilly White Crested Geckos came from, Who created the Lilly White Gene, and whether the Lilly White gene is codominant, dominant, recessive, etc. '
+description: 'The Lilly White Crested Gecko gene is a Co-dominant, relatively new addition to the reptile hobby.'
 coverImage: '/assets/blog/what-is-a-lilly-white-crested-gecko/costello.jpeg'
 date: '2021-06-30T05:35:07.322Z'
 author:

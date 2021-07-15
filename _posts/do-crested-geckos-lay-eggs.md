@@ -1,6 +1,7 @@
 ---
 title: 'Do Crested Geckos Lay Eggs?'
 excerpt: 'Shockingly to some, Crested Geckos do lay eggs! Find out about how many eggs a Crested Gecko can lay at one time, and If they produce multiple a year - if so how many?'
+description: 'Crested Geckos do lay eggs! Find out how many, what egg teeth are, and more!'
 coverImage: '/assets/blog/do-crested-geckos-lay-eggs/16.jpg'
 date: '2021-07-05T06:22:02.322Z'
 author:

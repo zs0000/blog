@@ -5,7 +5,11 @@ export default function PrivacyPolicy() {
     return(
         <Layout>
             <Head>
-
+            <title>Privacy Policy - ReptiKeep</title>
+          <meta
+        name="description"
+        content={`Privacy Policy page for ReptiKeep`}
+      />
             </Head>
             <Container>
                 <main>

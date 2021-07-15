@@ -5,7 +5,11 @@ export default function CookiePolicy() {
     return(
         <Layout>
             <Head>
-
+            <title>Cookie Policy - ReptiKeep</title>
+          <meta
+        name="description"
+        content={`Cookie Policy page for ReptiKeep`}
+      />
             </Head>
             <Container>
                 <main>

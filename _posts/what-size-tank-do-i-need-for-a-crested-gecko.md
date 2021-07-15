@@ -1,6 +1,7 @@
 ---
 title: 'What Size Tank Does My Crested Gecko Need?'
 excerpt: 'Buying the right Size enclosure for your reptile depends on its life stage - such as Adult, juvenile, or hatchling crested gecko. Learn about the right home, and if prebuilt or DIY is right for you!'
+description: 'Choosing the right enclosure for your Crested Gecko depends on a few factors which we cover.'
 coverImage: '/assets/blog/what-size-tank-do-i-need-for-a-crested-gecko/3.jpg'
 date: '2021-06-27T05:35:07.322Z'
 author:

@@ -1,6 +1,7 @@
 ---
 title: 'What To Do When Crested Geckos Lay Eggs?'
 excerpt: 'Lets go over what happens when a crested gecko lays eggs. In this article we discuss everything from incubation time and incubation medium, How long it takes for the eggs to hatch, How many eggs a Crested gecko might lay a year, and more!'
+description: 'Upon finding Crested Gecko eggs the first thing you are going to do is set up your incubation medium.'
 coverImage: '/assets/blog/what-to-do-when-crested-geckos-lay-eggs/15.jpg'
 date: '2021-07-04T06:22:02.322Z'
 author:
