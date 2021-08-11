@@ -27,7 +27,7 @@ export default function Post({ post, morePosts, preview }) {
             <article className="pb-16">
               <Head>
                 <title>
-                  {post.title} | ReptiKeep
+                  {post.title} - ReptiKeep
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
                 <meta

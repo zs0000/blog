@@ -10,8 +10,8 @@ export default function AllStories({ posts }) {
       <ul className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-32">
         {posts.map((post) => (
           <li key={post.slug} className="shadow-xl px-2 pb-2 hover:transition-transform hover:-translate-y-2 duration-150 rounded-lg">
-            <Link as={`/posts/${post.slug}`} href="/posts/[slug]">
-          <a>
+            
+          <a as={`/posts/${post.slug}`} href="/posts/[slug]">
           <PostPreview
             key={post.slug}
             title={post.title}
@@ -22,7 +22,7 @@ export default function AllStories({ posts }) {
             excerpt={post.excerpt}
           />
           </a>
-          </Link>
+ 
           </li>
         ))}
       </ul>

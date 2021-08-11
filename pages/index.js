@@ -19,7 +19,11 @@ export default function Index({ allPosts }) {
           <title>Crested Gecko Info: Morphs, Care, Breeding, Diet - ReptiKeep</title>
           <meta
         name="description"
-        content={`Everthing from if a Crested Gecko is a good pet, to High-end Crested Gecko morphs and care.`}
+        content={`Crested Gecko Info. How to take care of a Crested Gecko,
+         What Crested Geckos Like,
+         and more basic information on Crested Geckos.
+         Taking care of your first gecko is easy with our guides. We even have advanced crested Gecko genetics information.
+        `}
       />
       
         </Head>

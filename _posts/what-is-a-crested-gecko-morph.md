@@ -1,7 +1,7 @@
 ---
 title: 'What Is A Crested Gecko Morph?'
 excerpt: 'Crested Gecko genetics can be super confusing, thankfully there is a several morphs that exists to classify certain visual traits and looks that Crested Geckos display. Its actually simple once you understand key factors like base color, pattern color, etc.'
-description: 'Crested Geckos come in a wide variety of looks and colors, typically referenced by their morphs and or traits.'
+description: 'Crested Geckos come in a wide variety of looks and colors, typically referenced by their morphs and or traits. Easily answer What type of crested gecko this is, or what kind of crested gecko do i have, with this quick read that you can save and share!'
 coverImage: '/assets/blog/what-is-a-crested-gecko-morph/4.jpg'
 date: '2021-07-03T05:35:07.322Z'
 author:
