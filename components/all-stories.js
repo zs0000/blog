@@ -11,7 +11,7 @@ export default function AllStories({ posts }) {
         {posts.map((post) => (
           <li key={post.slug} className="shadow-xl px-2 pb-2 hover:transition-transform hover:-translate-y-2 duration-150 rounded-lg">
             
-          <a as={`/posts/${post.slug}`} href="/posts/[slug]">
+          <a as={`/posts/${post.slug}`} href={`/posts/${post.slug}`}>
           <PostPreview
             key={post.slug}
             title={post.title}

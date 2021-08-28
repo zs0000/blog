@@ -11,7 +11,7 @@ export default function MoreStories({ posts }) {
         {posts.slice(0,6).map((post) => (
           <li className="shadow-xl px-2 pb-2 hover:transition-transform hover:-translate-y-2 duration-150 rounded-lg">
 
-            <a key={post.slug} as={`/posts/${post.slug}`} href="/posts/[slug]" > 
+            <a key={post.slug} as={`/posts/${post.slug}`} href={`/posts/${post.slug}`}> 
           
           <PostPreview
             key={post.slug}
